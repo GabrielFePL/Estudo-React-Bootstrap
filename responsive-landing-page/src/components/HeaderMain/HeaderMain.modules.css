@@ -1,0 +1,6 @@
+.h_main {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 227, 227);
+    background: linear-gradient(29deg, #FFE3E3 0%, #FFF 35%);
+}
